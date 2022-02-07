@@ -7,9 +7,9 @@ numeric=''
 ans=''
 for i in s:
     if i.isalpha():
-        alpha=alpha+s[i]
+        alpha+=i
     else:
-        numeric=numeric+s[i]
+        numeric+=i
 
 ans=alpha+numeric
 print(ans)

@@ -1,3 +1,5 @@
+#adding 2 strings one by one
+
 s1='gokul'
 s2='rajanarajn'
 ans='';

@@ -9,7 +9,7 @@ num=10
 #for i in list:
 print(list.count(10))
 print(list.pop())
-print(list.pop())
+print(list.pop(1))
 print(list.sort())
 print(list)
 print(list.append(34434))
@@ -22,3 +22,7 @@ print(list)
 list.remove(45)
 print(list)
 
+#extend
+l2=[23,23,'r']
+list.extend(l2)
+print(list)

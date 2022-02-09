@@ -3,3 +3,4 @@ ri=[]
 for i  in li:
     ri.insert(0,i)
 print(ri)
+

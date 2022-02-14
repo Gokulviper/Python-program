@@ -1,6 +1,7 @@
 #no duplicate is allowed
 #no insertion maintained
 #object are mutable
+#no indexing no slicing
 
 
 s={10,10,10,2,2,23}
